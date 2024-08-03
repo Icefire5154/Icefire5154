@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Icefire5154
-- 👀 I’m interested in software development and data science
-- 🌱 I’m currently learning C to become a better programmer 
-- ✨ I’m planning on learning python and SQL for data analytics
+- 👀 I’m interested in back end development with an end goal of either full stack or devops
+- 🌱 I’m currently learning Python and OOP to get a solid foundation 
+- ✨ I’m planning on learning Go and SQL for back end development 
 
 
 
